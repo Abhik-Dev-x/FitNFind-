@@ -1,6 +1,6 @@
-# 🛍️ ThreadCart – Online Clothing E-commerce Platform
+# 🛍️ FitNFind – Online Clothing E-commerce Platform
 
-**ThreadCart** is a full-featured clothing e-commerce platform that enables users to browse, shop, and manage their orders seamlessly. It provides a smooth shopping experience with secure payment processing and an admin-friendly product management system.
+**FitNFind** is a full-featured clothing e-commerce platform that enables users to browse, shop, and manage their orders seamlessly. It provides a smooth shopping experience with secure payment processing and an admin-friendly product management system.
 
 ---
 
